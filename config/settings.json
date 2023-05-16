@@ -1,0 +1,7 @@
+{
+  "type": "azure",
+  "model": "text-davinci-003",
+  "endpoint": "",
+  "apikey": "",
+  "org": ""
+}
